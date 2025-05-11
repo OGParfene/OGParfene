@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @OGParfene
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Full Stack Web Developing and Information System Engineering in UAH
-- 💞️ Working as a FullStack Web Developer
 - 📫 Reach me, via email octaparfene1@gmail.com
 
 <!---
